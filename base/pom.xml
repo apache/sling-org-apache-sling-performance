@@ -40,7 +40,7 @@
     <scm>
         <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-performance.git</conncetion>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-performance.git</developerConnection>
-        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-performance.git.git</url>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-performance.git</url>
     </scm>
 
     <dependencies>

@@ -29,9 +29,9 @@
 	</properties>
 
 	<scm>
-		<connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/testing/performance/tests</connection>
-		<developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/testing/performance/tests</developerConnection>
-		<url>http://svn.apache.org/viewvc/sling/trunk/testing/performance/tests</url>
+		<connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-performance.git</conncetion>
+		<developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-performance.git</developerConnection>
+		<url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-performance.git</url>
 	</scm>
 	<dependencies>
 		<dependency>
