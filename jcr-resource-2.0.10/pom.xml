@@ -26,9 +26,9 @@
     <name>Apache Sling Performance Test - JCR Resource 2.0.10</name>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/performance/jcr-resource-2.0.10</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/performance/jcr-resource-2.0.10</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/performance/jcr-resource-2.0.10</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-performance.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-performance.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-performance.git.git</url>
     </scm>
     <dependencies>
         <dependency>
