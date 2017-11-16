@@ -34,7 +34,7 @@
         <dependency>
             <groupId>org.apache.sling</groupId>
             <artifactId>org.apache.sling.performance.base</artifactId>
-            <version>${project.version}</version>
+            <version>1.0.3-SNAPSHOT</version>
             <scope>test</scope>
         </dependency>
         <dependency>
