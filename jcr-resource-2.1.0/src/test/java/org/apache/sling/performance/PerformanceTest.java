@@ -104,6 +104,8 @@ public class PerformanceTest {
         Helper helper = new Helper();
         
         ParameterizedTestList testCenter = new ParameterizedTestList();
+        testCenter.setTestSuiteTitle("jcr.resource-2.1.0");
+
         testCenter.addTestObject(new ResolveNonExistingWithManyVanityPathTest("ResolveNonExistingWith1000VanityPathTest",helper, 100, 10));
         testCenter.addTestObject(new ResolveNonExistingWithManyVanityPathTest("ResolveNonExistingWith5000VanityPathTest",helper, 100, 50));
         testCenter.addTestObject(new ResolveNonExistingWithManyVanityPathTest("ResolveNonExistingWith10000VanityPathTest",helper, 100, 100));
