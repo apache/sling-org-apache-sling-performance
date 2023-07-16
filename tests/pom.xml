@@ -25,7 +25,7 @@
 	<name>Apache Sling Performance Tests</name>
 
 	<properties>
-		<junit.version>4.8.2</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 
 	<scm>
